@@ -1,1 +1,2 @@
-# CVESTILO
+# CV
+Curriculum vitae con estilo
